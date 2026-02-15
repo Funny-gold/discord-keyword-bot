@@ -6,12 +6,30 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 
 KEYWORDS = [
-    "announcement",
-    "release",
     "song of the elves",
-    "important",
-    "update",
+    "lunar diplomacy",
+    "monkey madness ii",
+    "fairytale part ii",
+    "while guthix sleeps",
+    "heroes quest",
+    "recipe for disaster",
+    "the curse of arrav",
+    "the final dawn",
+    "roving elves",
+    "dragon slayer ii",
+    "secrets of the north",
+    "making friends with my arm",
+    "perilous moons",
+    "mourning's end part ii",
+    "a kingdom divided",
     "king's ransom",
+    "the fremennik exiles",
+    "desert treasure i",
+    "desert treasure ii",
+    "defender of varrock",
+    "sins of the father",
+    "dream mentor",
+    "beneath cursed sands",
 ]
 
 intents = discord.Intents.default()
