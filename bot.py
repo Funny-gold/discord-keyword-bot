@@ -11,6 +11,7 @@ KEYWORDS = [
     "song of the elves",
     "important",
     "update",
+    "king's ransom",
 ]
 
 intents = discord.Intents.default()
